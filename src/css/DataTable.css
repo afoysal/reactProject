@@ -1,0 +1,53 @@
+.data_table {
+    margin: 0px 30px 0px 30px;
+}
+h1 {
+    font-size: 1.2em !important;
+    display: table;
+    width:100%;
+    box-shadow:none !important;
+}
+
+#address {
+    display: table-cell;
+    vertical-align: middle;
+}
+.delete_icon {
+    margin-left: 10px !important;
+}
+.pagination {
+    cursor:pointer;
+}
+#user_details {
+    font-size: 14px;
+    color: #000000;
+    font-weight: normal;
+    float: right;
+    display: table-cell;
+    vertical-align: middle;
+}
+#logout {
+    cursor:pointer;
+    margin-right: 30px;
+    text-decoration: underline;
+}
+.extra {
+    width: 200px;
+}
+.data_type {
+    width: 160px;
+}
+
+.edit {
+    color: blue;
+    cursor:pointer;
+    padding-left: 10px;
+}
+
+.image_container {
+    width: 285px;
+}
+
+.new_address {
+    margin-bottom: 20px;
+}
